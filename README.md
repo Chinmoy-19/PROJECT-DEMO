@@ -1,4 +1,4 @@
 # PROJECT-DEMO
 This is my first repository.
 <br>
-AUTHOR - Chinmoy goswami
+AUTHOR - Chinmoy goswami(PROJECT)
